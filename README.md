@@ -49,7 +49,7 @@ If you do decide to use any external dependencies, please note them down in the 
 We will assess the task based on the following criteria:
 
 - How clean, modular and extensible the code is
+- Approach to testing
 - How it looks visually and the techniques used to style the application
 - Accessibility
-- Approach to testing
 - Anything that goes above and beyond
