@@ -39,6 +39,7 @@ It should meet the following use case:
 ### Search Cards
 
 ```
-curl "https://search.moonpig.com/api/products?size=12&fq=card_shop_id:1&searchFacets=occasion_level_3:occasion%3Ewell%20done%3Enew%20job"
+curl "https://moonpig.github.io/tech-test-frontend/search.json"
+ > Note: static data has been used here to ensure consistency - please treat this as if it were an API call
 ```
 
