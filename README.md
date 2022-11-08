@@ -9,8 +9,9 @@ We are more interested in your approach to solving this problem than if you full
 When reviewing your project, we'll consider:
 
 - How clean, modular and extensible the code is
-- Approach to testing
-- Techniques used to present and lay out content in the app
+- The applied architecture and how the code is structured
+- Approach and design patterns used to enable testing
+- How you handle errors in the app
 - Any other information provided in your README
 - Source control management - please commit regularly and include the .git folder in your submission
 
@@ -18,7 +19,9 @@ When reviewing your project, we'll consider:
 
 We'll be using Xcode to build and run your application, so please ensure that your project is compatible with the latest macOS App Store release.
 
-If you do decide to use any external dependencies, please note them down in the README, along with your justifications.
+We use SwiftUI for all new UI code, so it's great if you can use that, but if you're more comfortable implementing the screens in UIKit, that's absolutely fine too.
+
+You shouldn't need to use any third-party dependencies to complete the task, but you can use them if you choose to. If you do decide to use any external dependencies, please note them down in the README, along with your justifications.
 
 ## The Task
 
