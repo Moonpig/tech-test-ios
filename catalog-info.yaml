@@ -1,9 +1,0 @@
-apiVersion: backstage.io/v1
-kind: System
-metadata:
-  name: tech-test-ios
-  annotations:
-    github.com/project-slug: Moonpig/tech-test-ios
-spec:
-  owner: moonpig-ios
-  lifecycle: production
