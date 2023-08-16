@@ -19,7 +19,7 @@ When reviewing your project, we'll consider:
 
 We'll be using Xcode to build and run your application, so please ensure that your project is compatible with the latest macOS App Store release.
 
-We use SwiftUI for all new UI code, so it's great if you can use that, but if you're more comfortable implementing the screens in UIKit, that's absolutely fine too.
+We use SwiftUI for all new UI code, so it's ideal if you can use that. If you're not comfortable with SwiftUI then we will also accept submissions using UIKit, however, for full disclosure, this will result in a slight decrease in the overall score.
 
 You shouldn't need to use any third-party dependencies to complete the task, but you can use them if you choose to. If you do decide to use any external dependencies, please note them down in the README, along with your justifications.
 
